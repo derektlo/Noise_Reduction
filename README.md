@@ -4,6 +4,6 @@ Implementation of a simple relaxation labelling network in Python to reduce nois
 # Run
 First install scipy
 
-python relaxation_network.py
+Then run: python relaxation_network.py
 
 This will output a file named 'noise_reduced_cactus.jpg' with the noise removed.
