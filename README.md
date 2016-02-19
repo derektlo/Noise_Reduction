@@ -1,5 +1,5 @@
 # Noise_Reduction
-Implements a simple relaxation labelling network to reduce noise in monochrome images.
+Implementation of a simple relaxation labelling network in Python to reduce noise in monochrome images.
 
 # Run
 python relaxation_network.py
